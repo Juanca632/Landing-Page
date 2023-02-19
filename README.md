@@ -1,6 +1,6 @@
 # Landing-Page
 
-Basic Landing page created HTML, CSS and JS only. PHP mailer used to receive mails filled by a form (a hosting needed)
+Basic Landing page created with HTML, CSS and JS only. PHP mailer used to receive mails filled by a form (a hosting needed)
 
 [![Captura-de-pantalla-2023-02-19-110216.png](https://i.postimg.cc/BbCMwPgL/Captura-de-pantalla-2023-02-19-110216.png)](https://postimg.cc/4Hm6Ydjs)
 
